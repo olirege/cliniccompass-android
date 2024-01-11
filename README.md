@@ -1,4 +1,4 @@
-# counter
+# Clinic Compass
 
 A new Flutter project.
 
