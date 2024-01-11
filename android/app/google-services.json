@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "456885719738",
+    "project_id": "cliniccompass-9cf0c",
+    "storage_bucket": "cliniccompass-9cf0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456885719738:android:5c3655e04c2a4c523ee883",
+        "android_client_info": {
+          "package_name": "com.example.counter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJCRv_FtbPhjJTyCFhGe2ReFfg2y-tqiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456885719738:android:3facb328d88604253ee883",
+        "android_client_info": {
+          "package_name": "com.orc.cliniccompass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJCRv_FtbPhjJTyCFhGe2ReFfg2y-tqiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
